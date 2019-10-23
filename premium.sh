@@ -349,7 +349,7 @@ ini_set('display_errors', '1');
 ini_set('max_execution_time', 150);
 
 
-$DB_host = "185.61.137.68";
+$DB_host = "185.62.188.4";
 $DB_user = "crystalb_crystalvpn_panel";
 $DB_pass = "crystalb_crystalvpn_panel";
 $DB_name = "crystalb_crystalvpn_panel";
